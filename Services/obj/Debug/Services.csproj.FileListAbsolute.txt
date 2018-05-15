@@ -1,0 +1,9 @@
+D:\Work\Projects\Delives.pk\Services\bin\Debug\Services.dll.config
+D:\Work\Projects\Delives.pk\Services\bin\Debug\Services.dll
+D:\Work\Projects\Delives.pk\Services\bin\Debug\Services.pdb
+D:\Work\Projects\Delives.pk\Services\bin\Debug\EntityFramework.dll
+D:\Work\Projects\Delives.pk\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Projects\Delives.pk\Services\bin\Debug\EntityFramework.xml
+D:\Work\Projects\Delives.pk\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Projects\Delives.pk\Services\obj\Debug\Services.dll
+D:\Work\Projects\Delives.pk\Services\obj\Debug\Services.pdb
